@@ -1,0 +1,3 @@
+FOLDER C:\Users\farouk.hadjali\Desktop\test,C:\Users\farouk.hadjali\Desktop\test2,D:\test
+FILENAME *a*
+EXTENSION *.py
